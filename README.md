@@ -52,7 +52,7 @@ home.html
             <h3>50% off for all Food</h3>
         </div>
         <footer>
-            <h6 class="bottom">KARTHIK A(25016949)</h6>
+            <h6 class="bottom">HARIPRASATH S(25017723)</h6>
 
         </footer>
     </body>
@@ -466,7 +466,7 @@ contact.html
             <h3>Email:obitouchih@gmail.com</h3>
         </div>
         <footer>
-            <h6 class="bottom">KARTHIK A(25016949)</h6>
+            <h6 class="bottom">HARIPRASATH S(25017723)</h6>
 
         </footer>
     </body>
