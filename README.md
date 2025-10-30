@@ -127,7 +127,7 @@ menu.html
             <a  href="home.html">Home</a>
             <a href="menu.html">Menu</a>
             <a href="admin.html">Admin</a>
-            <a href="contact.html">Contanct</a>
+            <a href="contact.html">Contact</a>
         </nav>
         <h1>Menu Lists</h1>
         <div class="main">
@@ -174,7 +174,7 @@ menu.html
             </div>
         </div>
         <footer>
-            <h6 class="bottom">KARTHIK A(25016949)</h6>
+            <h6 class="bottom">HARIPRASATH S(25017723)</h6>
 
         </footer>
     </body>
@@ -379,7 +379,7 @@ admin.html
             </div>
         </div>
         <footer>
-            <h6 class="bottom">KARTHIK A(25016949)</h6>
+            <h6 class="bottom">HARIPRASATH S(25017723)</h6>
 
         </footer>
     </body>
